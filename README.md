@@ -48,7 +48,7 @@ Based between **Honnavar** and **Bengaluru**. Always shipping, always learning.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/shridhar-1/Project-Netra">
-        <img src="assets/project-netra.png" alt="Project Netra" />
+        <img src="assets/project-netra.jpg" alt="Project Netra" />
       </a>
       <h3 align="center">👁️ Project Netra</h3>
       <p align="center">
